@@ -1,0 +1,1 @@
+ 5. haftada Kod, gazeteler ve kategoriler için tarih bazlı URL üretmeyi amaçlıyor.
